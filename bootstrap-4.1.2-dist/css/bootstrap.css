@@ -562,7 +562,7 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  background-color:#FFF;
+  background-color:#fff;
 }
 
 @media (min-width: 576px) {
@@ -2374,13 +2374,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #F4ABAA;
-  border-color: #007bff;
+  background-color: #C1C8E4;
+  border-color: #C1C8E4;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #0069d9;
+  background-color: #5680E9;
   border-color: #0062cc;
 }
 
@@ -3943,14 +3943,14 @@ input[type="button"].btn-block {
 
 .nav-pills .nav-link {
   border-radius: 0.25rem;
-  color: #EEAA7B;
-  
+  color: #000;
+
 }
 
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #66B9BF;
+  background-color: #C1C8E4;
 }
 
 .nav-fill .nav-item {
@@ -4898,7 +4898,7 @@ input[type="button"].btn-block {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #6597BD;
+  background-color: #5AB9EA;
   border-radius: 0.3rem;
 }
 

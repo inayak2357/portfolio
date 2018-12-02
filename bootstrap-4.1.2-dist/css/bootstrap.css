@@ -2374,8 +2374,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #C1C8E4;
-  border-color: #C1C8E4;
+  background-color: #b19cd9;
+  border-color: #b19cd9;
 }
 
 .btn-primary:hover {
@@ -3901,7 +3901,7 @@ input[type="button"].btn-block {
 }
 
 .nav-link.disabled {
-  color: #4484CE;
+  color: #4484ce;
 }
 
 .nav-tabs {
@@ -3987,7 +3987,7 @@ input[type="button"].btn-block {
   -ms-flex-pack: justify;
   justify-content: space-between;
   padding: 0.5rem 1rem;
-}
+        }
 
 .navbar > .container,
 .navbar > .container-fluid {
